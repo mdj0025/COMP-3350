@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  LINK : C:\Users\Michael Johnson\Desktop\Module 8 programming\TemplateProject\Debug\Project.exe not found or not built by the last incremental link; performing full link
+  Project.vcxproj -> C:\Users\Michael Johnson\Desktop\Module 8 programming\TemplateProject\Debug\Project.exe
