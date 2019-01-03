@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling main.asm...
+main.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Project.vcxproj -> C:\Users\Michael Johnson\Desktop\Module 7 Programming\Debug\Module 7 Assignment.exe
